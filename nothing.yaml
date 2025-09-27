@@ -1,0 +1,10 @@
+name: nothing
+description: nothing
+version: 1.0
+author: Dung Nobita CSA
+profiles:
+  - name: All_In_One.conf
+    type: conf
+    url: https://raw.githubusercontent.com/Haidanghoangwr/nothing/refs/heads/main/All_In_One.conf
+    update-interval: 86400
+    enabled: true
